@@ -37,7 +37,7 @@ class productCard extends HTMLElement {
               <h2>${this.title} <span>${this.collection}</span></h2>
               <p>${this.description}</p>
               <h3>${this.price}</h3>
-              <button>Comprar</button>
+              
             </div>
           </section>
         </main>
